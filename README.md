@@ -3,7 +3,7 @@
 ---
 
 📄 **Artigo completo no Medium:**  
-[Recomendação de imóveis sem o uso de Machine Learning](https://medium.com/@brenorupf)
+[Recomendação de imóveis sem o uso de Machine Learning]([https://medium.com/@brenorupf](https://medium.com/@brenorupf/projeto-de-insights-recomenda%C3%A7%C3%A3o-de-im%C3%B3veis-sem-o-uso-de-machine-learning-94a96626cab8))
 
 ---
 
